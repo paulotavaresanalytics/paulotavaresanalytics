@@ -14,7 +14,7 @@
 
 ## Sobre mim
 
-Sou **Analista Comercial de Dados**: construo dashboards, acompanho KPIs e apoio decisões comerciais em ambientes orientados por metas, trabalhando com dados de ERP (Winthor, SAP) e CRM.
+Sou **Analista de Dados**: construo dashboards, acompanho KPIs e apoio decisões estratégicas em ambientes orientados por metas, trabalhando com dados em ERPs, pipelines e automações.
 
 Analisando dados todos os dias, percebi que o maior problema raramente está no dashboard — está no dado que chega atrasado, duplicado ou inconsistente. Foi isso que me levou à **Engenharia de Dados**: quero atuar na origem, garantindo que o dado chegue confiável a quem decide.
 
